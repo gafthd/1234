@@ -3,7 +3,7 @@ powa.csv
 __pycache__/
 *.py[cod]
 *$py.class
-
+.png
 # C extensions
 *.so
 csv
